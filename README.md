@@ -16,10 +16,12 @@ This project explores a dataset of global data science job salaries to uncover i
 View the full analysis on Google Colab:  
 🔗 [**Open Notebook**]((https://colab.research.google.com/drive/1DtFu3RykEtPDpGW9VwdF1Ydc61xPB1hg?usp=sharing))
 
+*(Replace with your real Colab link)*
+
 ## ✏ Next Steps
 - Analyze salaries by country or company location
 - NLP analysis of job descriptions and skills
 - Time series trend (if dataset updated over time)
 
 ## 🚀 Author
-Built with ❤️ by Dhiphika S
+Built with ❤️ by [Dhiphika Abishek]

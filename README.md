@@ -1,4 +1,4 @@
-# Data Science Jobs Salary Analysis (2020–2024)
+# Data Science 
 
 This project explores a dataset of global data science job salaries to uncover insights about demand, salaries, remote work trends, and experience levels.
 
